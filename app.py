@@ -25,7 +25,5 @@ st.markdown(
     - **Customer Segmentation**
     - **Product Associations**
     - **Prediction**
-
-    Use the left sidebar to open a page.
     """
 )
